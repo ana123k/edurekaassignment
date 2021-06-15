@@ -1,0 +1,265 @@
+.parent{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.img1{
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #f5f0f0;
+}
+.img2{
+  position: absolute;
+        top: 50px;
+        left: 410px;
+        border: 8px solid #fffbfb;
+}
+.main{  position: absolute;
+  top: 150px;
+  left: 600px;
+  border: 10px solid #f1f1f1;
+  color: rgb(250, 248, 248);
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+
+}
+
+.heading {
+    
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+  }
+  .search-box{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    background: #acadac;
+    height: 40px;
+    
+    border-radius:40px ;
+    padding: 10px;
+  }
+  .login{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    border: 5px solid #f5f0f0;
+    border-radius: 20px;
+    border-color: #faf6f6;
+    color: #f3ebea;
+    width: 6%;
+    height: 10%;
+    font-family: Poppins;
+  font-size: 27px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+
+  }
+  .acc{position: absolute;
+    top: 10%;
+    left: 80%;
+    border: 5px solid #f5f0f0;
+    border-radius: 20px;
+    border-color: #edeff5;
+    color: #faf6f5;
+    width: 15%;
+    height: 10%;
+    font-family: Poppins;
+  font-size: 27px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+
+  }
+.sub-heading {
+    
+         font-family: Poppins;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: #f1f3f8;
+}
+.qs-options {
+    
+        width: 360px;
+        height: 160px;
+        display:inline-block;
+        padding: 0 34px 0 0;
+        box-shadow: 0 3px 90px 0px rgba(81, 224, 243, 0.16);
+        background-color: #635c5c;
+        color: #f1f3f8;
+        margin: 35px;
+        
+      
+ }
+  
+ .Breakfast {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f4f4f5;
+}
+.Bsub{
+  
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f1f5f5;
+}
+.Lunch {
+ 
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebf2f5;
+}
+.Lsub{
+ 
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebedf1;
+}
+
+.Snack {
+ 
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f0f3fa;
+}
+.Ssub{
+
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebedf1;
+
+}
+.Dinner {
+ 
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f2f4f7;
+}
+.dsub{
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebedf1;
+}
+.Drinks {
+  
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #e8eaf0;
+}
+.drsub{
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebedf1;
+}
+.Night {
+
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edeff5;
+}
+.Nsub{ font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ebedf1;
+
+}
+
+
+  
